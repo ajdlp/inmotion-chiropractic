@@ -27,8 +27,8 @@ test:
   reconnect: false
   database: inmotion-chiropractic_test
   pool: 5
-  username: inmotion-chiropractic
-  password:
+  username: root
+  password: mypassword
   host: localhost
 
 production:
